@@ -1,0 +1,2 @@
+# cursrs
+Superior cursors platform.
